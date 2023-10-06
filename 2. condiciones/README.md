@@ -1,4 +1,4 @@
-Condicionales en Python
+# Condicionales en Python
 
 Los condicionales en Python permiten controlar el flujo del programa basado en condiciones lógicas. Los condicionales más comunes son `if`, `elif` (opcional) y `else`. Aquí tienes una descripción general de cómo funcionan:
 

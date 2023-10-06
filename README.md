@@ -20,8 +20,7 @@ No es necesario tener experiencia previa en programación para participar en est
 
 Para sacar el máximo provecho de este taller, asegúrate de traer lo siguiente:
 
-- Un portátil con acceso a Wi-Fi.
-- Un entusiasmo por aprender programación.
+- Entusiasmo por aprender programación.
 
 ## Instrucciones
 
